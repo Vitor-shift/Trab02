@@ -9,4 +9,4 @@ linhas de comando:
 4- gprof hash_ceps.exe gmon.out > analysis.txt
 
 
-Link para o video: 
+Link para o video: https://youtu.be/lL_yh1HPS4M
